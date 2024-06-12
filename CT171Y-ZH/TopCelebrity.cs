@@ -6,6 +6,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Reflection;
+using Microsoft.EntityFrameworkCore.Diagnostics;
+using System.Net.Http.Headers;
 
 namespace CT171Y_ZH
 {
@@ -40,6 +43,19 @@ namespace CT171Y_ZH
         public DataDescription(string desc) 
         {
             Description = desc;
+        }
+    }
+    public static class AttributeHelper
+    {
+        public static string GetPropertyDescription<T>(string propertyName)
+        {
+            PropertyInfo propInfo = typeof(T).GetProperty(propertyName);
+            if (propInfo == null)
+            {
+                throw new ArgumentException($"Propety '{propertyName}' does not exist on type '{typeof(T).Name}'");
+            }
+            DataDescription attribute = propInfo.GetCustomAttribute<DataDescription>();
+            return attribute?.Description ?? $"No description found on property '{propertyName}'.";
         }
     }
 }
