@@ -10,10 +10,15 @@ namespace CT171Y_ZH
 {
     public class Celebrity
     {
+        [DataDescription("Full name")]
         public string Name { get; set; }
+        [DataDescription("Nationality")]
         public string Nationality { get; set; }
+        [DataDescription("Date of birth")]
         public string BirthDate { get; set; }
+        [DataDescription("Place of birth")]
         public string BirthPlace { get; set; }
+        [DataDescription("Current Age")]
         public int Age { get; set; }
         public int NumOfFilms { get; set; }
         public int OscarNominations { get; set; }

@@ -34,4 +34,12 @@ namespace CT171Y_ZH
             optionsBuilder.UseSqlite("Data Source = celebrities.db");
         }
     }
+    [AttributeUsage(AttributeTargets.Property)]
+    public class DataDescription : Attribute {
+        public string Description { get; }
+        public DataDescription(string desc) 
+        {
+            Description = desc;
+        }
+    }
 }
