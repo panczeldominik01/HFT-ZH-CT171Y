@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "53gap6vBqh7DKBn4rM77Nt1u72INCAj50VpeK2/Kf2nCFXQXMct//As57oTD7nZHSxg9Ud3fdBHgTl1llGf6Xw==",
+  "dgSpecHash": "BYddK2jdxjVOV4LZDX3Y+emWCyFUVo2/XWZwylJagDOUaahVIW053aHthCOCl8iVi3fw616whl5+tovlKXEiiA==",
   "success": true,
   "projectFilePath": "C:\\Users\\pancz\\Desktop\\hft\\CT171Y-ZH\\AttributeHelperTest\\AttributeHelperTest.csproj",
   "expectedPackageFiles": [
@@ -34,7 +34,7 @@
     "C:\\Users\\pancz\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0\\microsoft.testplatform.testhost.17.10.0.nupkg.sha512",
     "C:\\Users\\pancz\\.nuget\\packages\\mstest.testadapter\\3.4.3\\mstest.testadapter.3.4.3.nupkg.sha512",
     "C:\\Users\\pancz\\.nuget\\packages\\mstest.testframework\\3.4.3\\mstest.testframework.3.4.3.nupkg.sha512",
-    "C:\\Users\\pancz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\pancz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\pancz\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\pancz\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\pancz\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",

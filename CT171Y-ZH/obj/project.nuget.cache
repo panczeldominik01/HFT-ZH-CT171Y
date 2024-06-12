@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mcqCukuT7DE49eQ4B7vE0+AH+ALowmVYcuPHYs6K4NTuT3g6DzmGcvjw613D3xQcM2kyzmFaOxjWYuwU78eeog==",
+  "dgSpecHash": "32dbeBmirCZ2/G1+MDcBucXLHNkZOyjAsr5yBcJDRcAPidvt66Z/5fIxOgRGtpdJ//7+O/6Y+HzHJL6UxfVWWQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\pancz\\Desktop\\hft\\CT171Y-ZH\\CT171Y-ZH\\CT171Y-ZH.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\pancz\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\pancz\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
     "C:\\Users\\pancz\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\pancz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\pancz\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.0.4\\sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "C:\\Users\\pancz\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\pancz\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
