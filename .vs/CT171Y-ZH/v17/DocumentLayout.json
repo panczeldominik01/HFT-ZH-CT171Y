@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pancz\\Desktop\\hft\\CT171Y-ZH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D50BDD2-F990-4606-BF9A-43339E9FFB60}|CT171Y-ZH\\CT171Y-ZH.csproj|c:\\users\\pancz\\desktop\\hft\\ct171y-zh\\ct171y-zh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D50BDD2-F990-4606-BF9A-43339E9FFB60}|CT171Y-ZH\\CT171Y-ZH.csproj|solutionrelative:ct171y-zh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 205,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pancz\\Desktop\\hft\\CT171Y-ZH\\CT171Y-ZH\\Program.cs",
+              "RelativeDocumentMoniker": "CT171Y-ZH\\Program.cs",
+              "ToolTip": "C:\\Users\\pancz\\Desktop\\hft\\CT171Y-ZH\\CT171Y-ZH\\Program.cs",
+              "RelativeToolTip": "CT171Y-ZH\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:26:15.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
