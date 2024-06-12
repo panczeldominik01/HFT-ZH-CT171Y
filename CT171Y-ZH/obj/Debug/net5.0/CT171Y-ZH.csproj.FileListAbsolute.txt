@@ -49,3 +49,4 @@ C:\Users\pancz\Desktop\hft\CT171Y-ZH\CT171Y-ZH\obj\Debug\net5.0\refint\CT171Y-ZH
 C:\Users\pancz\Desktop\hft\CT171Y-ZH\CT171Y-ZH\obj\Debug\net5.0\CT171Y-ZH.pdb
 C:\Users\pancz\Desktop\hft\CT171Y-ZH\CT171Y-ZH\obj\Debug\net5.0\CT171Y-ZH.genruntimeconfig.cache
 C:\Users\pancz\Desktop\hft\CT171Y-ZH\CT171Y-ZH\obj\Debug\net5.0\ref\CT171Y-ZH.dll
+C:\Users\pancz\Desktop\hft\CT171Y-ZH\CT171Y-ZH\bin\Debug\net5.0\Newtonsoft.Json.dll

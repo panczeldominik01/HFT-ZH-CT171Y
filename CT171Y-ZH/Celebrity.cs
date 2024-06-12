@@ -8,6 +8,7 @@ using System.Xml.Serialization;
 
 namespace CT171Y_ZH
 {
+    [XmlRoot("celebrity")]
     public class Celebrity
     {
         [DataDescription("Full name")]
@@ -28,8 +29,8 @@ namespace CT171Y_ZH
     public static class CelebrityImporter
     {
         public static List<Celebrity> Import()
-        { 
-            XmlSerializer serializer = new XmlSerializer(typeof(List<Celebrity>));
+        {
+            XmlSerializer serializer = new XmlSerializer(typeof(List<Celebrity>), new XmlRootAttribute("celebrity"));
             using (FileStream fs = new FileStream("celebrities.xml", FileMode.Open))
             {
                 return (List<Celebrity>)serializer.Deserialize(fs);

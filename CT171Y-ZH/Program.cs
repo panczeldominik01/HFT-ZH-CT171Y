@@ -11,6 +11,8 @@ namespace CT171Y_ZH
     {
         static void Main(string[] args)
         {
+            List<Celebrity> celebrity = CelebrityImporter.Import();
+
             ////a
             var celebrities = new List<Celebrity>();
             int threeTimesNominated = celebrities.Count(c => c.OscarNominations >= 3);
@@ -39,6 +41,9 @@ namespace CT171Y_ZH
                 context.TopCelebrities.AddRange(qualifiedCelebrities);
                 context.SaveChanges();
             }
+            Console.WriteLine($"Actors/Actresses with at least 3 Oscar nominations: {threeTimesNominated}");
+            Console.WriteLine($"Actor/Actress with the most movies: {mostFilmsName} with {mostFilmCount} movies");
+            Console.WriteLine($"Oscar-winning producers: {string.Join(", ", OscarWinningProducers)}");
         }
     }
 }
