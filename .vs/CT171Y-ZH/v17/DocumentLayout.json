@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\pancz\\Desktop\\hft\\CT171Y-ZH\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D50BDD2-F990-4606-BF9A-43339E9FFB60}|CT171Y-ZH\\CT171Y-ZH.csproj|c:\\users\\pancz\\desktop\\hft\\ct171y-zh\\ct171y-zh\\topcelebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D50BDD2-F990-4606-BF9A-43339E9FFB60}|CT171Y-ZH\\CT171Y-ZH.csproj|solutionrelative:ct171y-zh\\topcelebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD2FA419-BB62-43B7-8630-D86769A92F25}|AttributeHelperTest\\AttributeHelperTest.csproj|c:\\users\\pancz\\desktop\\hft\\ct171y-zh\\attributehelpertest\\attributehelpertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD2FA419-BB62-43B7-8630-D86769A92F25}|AttributeHelperTest\\AttributeHelperTest.csproj|solutionrelative:attributehelpertest\\attributehelpertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D50BDD2-F990-4606-BF9A-43339E9FFB60}|CT171Y-ZH\\CT171Y-ZH.csproj|c:\\users\\pancz\\desktop\\hft\\ct171y-zh\\ct171y-zh\\celebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D50BDD2-F990-4606-BF9A-43339E9FFB60}|CT171Y-ZH\\CT171Y-ZH.csproj|solutionrelative:ct171y-zh\\celebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D50BDD2-F990-4606-BF9A-43339E9FFB60}|CT171Y-ZH\\CT171Y-ZH.csproj|c:\\users\\pancz\\desktop\\hft\\ct171y-zh\\ct171y-zh\\topcelebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D50BDD2-F990-4606-BF9A-43339E9FFB60}|CT171Y-ZH\\CT171Y-ZH.csproj|solutionrelative:ct171y-zh\\topcelebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D50BDD2-F990-4606-BF9A-43339E9FFB60}|CT171Y-ZH\\CT171Y-ZH.csproj|c:\\users\\pancz\\desktop\\hft\\ct171y-zh\\ct171y-zh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,12 +47,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AttributeHelperTest.cs",
+              "DocumentMoniker": "C:\\Users\\pancz\\Desktop\\hft\\CT171Y-ZH\\AttributeHelperTest\\AttributeHelperTest.cs",
+              "RelativeDocumentMoniker": "AttributeHelperTest\\AttributeHelperTest.cs",
+              "ToolTip": "C:\\Users\\pancz\\Desktop\\hft\\CT171Y-ZH\\AttributeHelperTest\\AttributeHelperTest.cs",
+              "RelativeToolTip": "AttributeHelperTest\\AttributeHelperTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:44:19.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TopCelebrity.cs",
               "DocumentMoniker": "C:\\Users\\pancz\\Desktop\\hft\\CT171Y-ZH\\CT171Y-ZH\\TopCelebrity.cs",
               "RelativeDocumentMoniker": "CT171Y-ZH\\TopCelebrity.cs",
               "ToolTip": "C:\\Users\\pancz\\Desktop\\hft\\CT171Y-ZH\\CT171Y-ZH\\TopCelebrity.cs",
               "RelativeToolTip": "CT171Y-ZH\\TopCelebrity.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAADMAAABGAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAuwDkAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T17:40:41.632Z",
               "EditorCaption": ""
@@ -61,13 +78,14 @@
               "RelativeDocumentMoniker": "CT171Y-ZH\\Celebrity.cs",
               "ToolTip": "C:\\Users\\pancz\\Desktop\\hft\\CT171Y-ZH\\CT171Y-ZH\\Celebrity.cs",
               "RelativeToolTip": "CT171Y-ZH\\Celebrity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T17:32:48.463Z"
+              "WhenOpened": "2024-06-12T17:32:48.463Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pancz\\Desktop\\hft\\CT171Y-ZH\\CT171Y-ZH\\Program.cs",
               "RelativeDocumentMoniker": "CT171Y-ZH\\Program.cs",
@@ -75,7 +93,8 @@
               "RelativeToolTip": "CT171Y-ZH\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T17:26:15.384Z"
+              "WhenOpened": "2024-06-12T17:26:15.384Z",
+              "EditorCaption": ""
             }
           ]
         }

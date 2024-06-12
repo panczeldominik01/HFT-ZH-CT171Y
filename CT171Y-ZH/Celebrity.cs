@@ -17,8 +17,7 @@ namespace CT171Y_ZH
         [DataDescription("Date of birth")]
         public string BirthDate { get; set; }
         [DataDescription("Place of birth")]
-        public string BirthPlace { get; set; }
-        [DataDescription("Current Age")]
+        public string BirthPlace { get; set; }       
         public int Age { get; set; }
         public int NumOfFilms { get; set; }
         public int OscarNominations { get; set; }
